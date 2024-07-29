@@ -31,5 +31,5 @@ def registration(log):
             break 
         else :
             print(" the password is too short")
-     try :
+chat try :
          with open("login.txt ", "a ")as outfile :

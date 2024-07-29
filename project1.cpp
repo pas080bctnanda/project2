@@ -34,8 +34,9 @@ string getpassword()
     return password ;
 }
 };
-void registration(login (log) )
+void registration(login log)
  {
+    login  log;
     system("cls ");
     string id ,pw ;
     cout<<"Enter your id :\n ";
